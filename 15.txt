@@ -1,0 +1,6 @@
+15. What is the data type of m after the following statement?
+m = ['July', 'September', 'December']
+a. Dictionary
+b. Tuple
+c. List
+d. String

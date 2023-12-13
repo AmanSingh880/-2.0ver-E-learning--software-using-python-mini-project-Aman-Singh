@@ -1,0 +1,4 @@
+1. What will be the output after the following statements?
+m = 28
+n = 5
+print(m // n)

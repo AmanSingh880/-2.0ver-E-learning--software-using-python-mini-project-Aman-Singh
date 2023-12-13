@@ -1,0 +1,4 @@
+6. What will be the output after the following statements?
+m = True
+n = False
+print(m or n)

@@ -1,0 +1,9 @@
+20. What will be the output after the following statements?
+m = 17
+n = 5
+o = m * n
+print(o)
+a. m * n
+b. 17
+c. 85
+d. 5

@@ -1,0 +1,8 @@
+18. What will be the output after the following statements?
+m = [75, 23, 64]
+n = m[0] + m[1]
+print(n)
+a. 75
+b. 23
+c. 64
+d. 98

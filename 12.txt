@@ -1,0 +1,7 @@
+12. What will be the output after the following statements?
+m = 81 + 34
+print(m)
+a. 8134
+b. 81
+c. 115
+d. 34

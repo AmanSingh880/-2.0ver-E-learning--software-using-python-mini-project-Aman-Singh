@@ -1,0 +1,8 @@
+19. What will be the output after the following statements?
+m = ['July', 'September', 'December']
+n = m[0] + m[2]
+print(n)
+a. July
+b. JulyDecember
+c. JulySeptember
+d. SeptemberDecember

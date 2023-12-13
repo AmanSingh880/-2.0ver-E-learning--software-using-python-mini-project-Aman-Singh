@@ -1,0 +1,8 @@
+13. What will be the data type of n after the following statements 
+if the user entered the number 45?
+m = input('Enter a number: ')
+n = int(m)
+a. Float
+b. String
+c. List
+d. Integer

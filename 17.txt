@@ -1,0 +1,8 @@
+17. What will be the output after the following statements?
+m = [45, 51, 67]
+n = m[2]
+print(n)
+a. 67
+b. 51
+c. [45, 51, 67]
+d. 45

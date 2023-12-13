@@ -1,0 +1,4 @@
+4. What will be the output after the following statements?
+m = 92
+n = 35
+print(m > n)

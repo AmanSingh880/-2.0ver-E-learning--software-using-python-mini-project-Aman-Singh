@@ -1,0 +1,6 @@
+14. What is the data type of m after the following statement?
+m = (41, 54, 23, 68)
+a. Dictionary
+b. Tuple
+c. String
+d. List

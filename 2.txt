@@ -1,0 +1,4 @@
+2. What will be the output after the following statements?
+m = 90
+n = 7
+print(m % n)

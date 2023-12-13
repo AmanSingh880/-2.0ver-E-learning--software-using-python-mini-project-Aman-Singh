@@ -1,0 +1,8 @@
+16. What will be the output after the following statements?
+m = ['July', 'September', 'December']
+n = m[1]
+print(n)
+a. [‘July’, ‘September’, ‘December’]
+b. July
+c. September
+d. December

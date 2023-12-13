@@ -1,0 +1,7 @@
+11. What will be the output after the following statements?
+m = '40' + '01'
+print(m)
+a. 4001
+b. 01
+c. 41
+d. 40

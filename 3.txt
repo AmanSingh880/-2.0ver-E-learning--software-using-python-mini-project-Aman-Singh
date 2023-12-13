@@ -1,0 +1,4 @@
+3. What will be the output after the following statements?
+m = 79
+n = 64
+print(m < n)

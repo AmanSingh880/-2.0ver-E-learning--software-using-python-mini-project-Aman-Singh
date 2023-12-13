@@ -1,0 +1,4 @@
+8. What will be the output after the following statements?
+m = True
+n = False
+print('not n')
